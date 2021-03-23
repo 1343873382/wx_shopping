@@ -1,0 +1,7 @@
+<view class="search_top">
+    <input class="search_text" bindinput="goodsSearch"></input>
+    <button class="search_btn" bindtap="searchClear">搜索</button>
+</view>
+<view class="seach_goods_list">
+    <navigator url="/pages/goods_detail/goods_detail?goods_id={{item.goods_id}}" class="search_goods_name" wx:for="{{goods}}" wx:key="goods_id">{{item.goods_name}}</navigator>
+</view>

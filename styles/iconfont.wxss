@@ -1,0 +1,32 @@
+@font-face {font-family: "iconfont";
+  src: url('//at.alicdn.com/t/font_2208516_2wv0y7ca6u6.eot?t=1605584046828'); /* IE9 */
+  src: url('//at.alicdn.com/t/font_2208516_2wv0y7ca6u6.eot?t=1605584046828#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAANwAAsAAAAAB8wAAAMkAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDIgqDJIJsATYCJAMICwYABCAFhG0HLRvBBhHVmzHIfhS4sTOsrLeSQvPPsKIm6f8fQTzqfO9JSmr7M7kAxHYRYSKgrWuTAAFji3OeQZioy5G8RY9+kPIoy0lYcZ/ncnp3lfj8QLmMtXVsWpt6AcYBBboHtjGhgVs8xYaxKy9iPQRwyFSI1KrTqBUWBqObADKof9/uWCkTpiZRsBCCJWMNsoQAlpqrbgOL/fvLL0pkgSKgMfo261O7F9W+8tXWXsjTySUQj+cA2CTQQCFgQHqUujqhw1AhGkfpYygGghgE9dUM2qEQYwp9E6xT5UCx+echQYz4cACq4bCBr9hA4KsoVisogmobSu5Bq/pdSQQwF2wbOQUi0iIixDaOIRG2HR4+MXLeJenq78vTZtWq9asTWj+hk7c3LGr+Sm9FmyHFv6bj+J0XUd6FIYNX70/Sq1YlDmnn7W3trL04/7J/ad6F1qce+o/mP/Dut9mxx9s7f7+/b7Cz9uDZ+ecP+4fOzTtzoC6jQ/i8Vf7qsIjRq1vF81R53/NzjlAO5cbEnxgY4893rw/3LtQ4vJa4sXNivlj7YvZVGXJQZf+bQ5YW8ypsyZXmuntv5z0o70tGus7bLW9LS7+YsZ2e14+cU8Xk1J3QrWQTTp7F3d4UfkxCyfrajcsT5+ZzY/PEunWHVmfNmzLf3he9z3YN1lCsiknwkeRS8kLXjNIVEeEbT6urXaMq/bPCDACvXuAhX9LOA9aduAV+VZEBQv+N4lLDrIysAsUUc0XcqdJR1fyeZIBYb/vqEm4/JlgkvARPNjJiaCxykYZRCAHCKIUgFlXhUFDdyWHEGYFGjA0UMBNAiHYYikguQxPtDmkYbxAg0fXHwKouJp5t55zapScHwpgxg+QHOi0LYVl5EiReUb5cTEmpz3wiNdoLoRdkoxcskMYY0LxlxCxAUJnDGWyGzpVQUWkwZU8xV3vfF2Vn8tIyb00cEBRjKAMSP0BLlQrCrc8mudtfIenFiVFNRYX3CZGGbh6EPEEL8qIqWlVcyzaNNynCmAAEUsqBM3AgZ4ZKoCpvZaAU86gegcqej2qJtipvfk3+dBsAh6FXmRma7gpbLQ==') format('woff2'),
+  url('//at.alicdn.com/t/font_2208516_2wv0y7ca6u6.woff?t=1605584046828') format('woff'),
+  url('//at.alicdn.com/t/font_2208516_2wv0y7ca6u6.ttf?t=1605584046828') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('//at.alicdn.com/t/font_2208516_2wv0y7ca6u6.svg?t=1605584046828#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-che:before {
+  content: "\e600";
+}
+
+.icon-che-copy:before {
+  content: "\e609";
+}
+
+.icon-qicheqianlian-select:before {
+  content: "\e601";
+}
+
+.icon-che1:before {
+  content: "\e602";
+}

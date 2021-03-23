@@ -1,0 +1,40 @@
+.detail_swiper swiper {
+  text-align: center;
+  height: 60vw;
+}
+.detail_swiper swiper image {
+  width: 60%;
+}
+.detail_swiper .detail_list .detail_price {
+  color: red;
+}
+.detail_swiper .detail_list .deatail_introduce {
+  display: flex;
+}
+.detail_swiper .detail_list .deatail_introduce .deatail_introduce_left {
+  flex: 4;
+}
+.detail_swiper .detail_list .deatail_introduce .deatail_introduce_right {
+  border-left: 1rpx solid black;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+.goods_info {
+  color: red;
+  font-size: 50rpx;
+}
+.detail_tools {
+  display: flex;
+}
+.detail_tools .tools_item {
+  flex: 1.5;
+}
+.detail_tools .tools_cart {
+  flex: 2;
+}
+.detail_tools .tools_buy {
+  flex: 2;
+}

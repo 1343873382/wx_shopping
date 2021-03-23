@@ -1,0 +1,5 @@
+<view class="receive_address_row">
+    <view class="address_btn">
+        <button type="primary" plain bindtap="handleChooseAddress">获取收获的地址</button>
+    </view>
+</view>
